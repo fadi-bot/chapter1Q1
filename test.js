@@ -1,7 +1,6 @@
-const product = {
-  title: "Ball Pen",
-  rating: 4,
-  offer: 5,
-  price: 270,
+export const profile = {
+  username: "fahad",
+  isFollow: false,
+  followers: 23,
+  following: 270,
 };
-console.log(product);
